@@ -6,4 +6,7 @@ The jersey-guide, dockerized
 
 ```
 $ docker-compose up -d
+$ docker exec -it <container_id_or_name> bash
+$ mvn clean test
+$ mvn exec:java
 ```
