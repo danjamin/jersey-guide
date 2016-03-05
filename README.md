@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # jersey-guide
 
 The jersey-guide, dockerized
